@@ -9,8 +9,9 @@ Powered by Python and trained on real-world housing data, this project blends th
 This project was developed as part of the TCS iON Internship Program and demonstrates the practical application of AI in the real estate domain.
 
 ✨ Key Highlights:
-End-to-end ML system with web deployment
-Real-time property price predictions
-Clean, responsive user interface
-Fully integrated with MySQL for data storage
-Great for academic portfolios and demos
+- End-to-end ML system with web deployment
+- Real-time property price predictions
+- Clean, responsive user interface
+- Fully integrated with MySQL for data storage
+- Great for academic portfolios and demos
+
